@@ -35,13 +35,14 @@ Ibrahim volunteers to provide the initial draft of this content
 	* Fairness
 	* Bias
 	* Explainability
-	* Etc
+	* Etc...
 
 * Action The technical tools
 	* Tools for fairness
 	* Tools for bias
 	* Tools for explainability
 	* Tools to adveserial AI
+	* Etc...
 
 * AI ​​Policy tools:
 	* Examples: AI ethics guidelines
